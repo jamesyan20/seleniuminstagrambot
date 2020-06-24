@@ -3,6 +3,7 @@
 ###Install the requirements.txt
 
 ####Execute the code below in your terminal 
+
 `$  python bot (your login) (your password) (your action)`
 
 ###THERE ARE THREE OPTIONS ARGUMENTS
