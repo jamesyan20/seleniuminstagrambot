@@ -1,8 +1,11 @@
+###Instagram bot created with python and selenium
+
+
 ###SETUP 
 
 ###Install the requirements.txt
 
-####Execute the code below in your terminal 
+###Execute the code below in your terminal 
 
 `$  python bot (your login) (your password) (your action)`
 
